@@ -1,5 +1,8 @@
 ### Hi 👋 ,I am SAMARTH!
 *I am working on my hard 😣coding 👨‍💻 skills and it's been a 🥰 **year**.*
+
+
+<img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 > If the things are not going smooth,
 > Just change the algorithm
 
@@ -19,4 +22,4 @@
 <br />
 > These are the places u can find me online.
 <br/>
-<img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
+
