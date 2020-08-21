@@ -1,9 +1,9 @@
 ## Hi 👋 ,I am SAMARTH!
 
-<br/>
-
 I am working on my coding skills and it's been a **year**
-<br/>
+
+
+<br />
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="left" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
