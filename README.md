@@ -1,5 +1,5 @@
-# Hi there 👋 I am SAMARTH!
-<br/>
+## Hi 👋 ,I am SAMARTH!
+I am working on my coding skills and it's been a **year**
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="left" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -12,3 +12,4 @@
 <a href="https://auth.geeksforgeeks.org/user/samarthdubey49/practice/">
   <img align="left" alt="Code chef " width="22px" src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" />
 </a>
+**These are the places u can find me online.**
