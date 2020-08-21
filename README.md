@@ -1,5 +1,8 @@
 ### Hi 👋 ,I am SAMARTH!
 *I am working on my hard 😣coding 👨‍💻 skills and it's been a 🥰 **year**.*
+> If the things are not going smooth,
+> JUst change the algorithm
+
 
 
 
@@ -18,5 +21,5 @@
 </a>
 <br />
 <br/>
-> These are the places u can find me online.
+>These are the places u can find me online.
 <br/>
