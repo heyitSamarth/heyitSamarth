@@ -39,7 +39,7 @@
 
 
 ### Can code in 
- <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+ <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://mpng.subpng.com/20180324/icq/kisspng-the-c-programming-language-internet-explorer-5ab6f84e02a659.3278740715219405580109.jpg" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="70px" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
