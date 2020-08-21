@@ -3,15 +3,12 @@
 
 
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
-<br/>
 
 
 
 ##### *I am not responsible for all my codes,*
-<br/>
 ##### *They made me write it, against my will.*
 
-<br/>
 
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="left" style="margin:20px" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
