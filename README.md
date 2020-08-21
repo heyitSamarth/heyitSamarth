@@ -7,7 +7,7 @@
 > Just change the algorithm
 
 <br />
-
+<br/>
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="center" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
