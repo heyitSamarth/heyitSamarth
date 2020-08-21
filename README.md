@@ -1,4 +1,4 @@
-## Hi 👋 ,I am SAMARTH!
+### Hi 👋 ,I am SAMARTH!
 *I am working on my hard 😣coding 👨‍💻 skills and it's been a 🥰 **year**.*
 
 
