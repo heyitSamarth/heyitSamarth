@@ -6,9 +6,9 @@
 <br/>
 
 
-*I am not responsible for all my codes,*
+*"I am not responsible for all my codes,*
 <br/>
-*They made me write it, against my will.*
+*They made me write it, against my will."*
 
 <br/>
 
