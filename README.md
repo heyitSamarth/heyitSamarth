@@ -26,5 +26,6 @@
 
 > If the things are not going smooth,
 > Just change the algorithm
-*-samarth*
+          
+          *-samarth*
 
