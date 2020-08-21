@@ -39,10 +39,10 @@
 
 
 ### Can code in 
- <img align="left" style="margin:20px" alt="Code chef " width="60px" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
+ <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="70px" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />
-<img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://n7.nextpng.com/sticker-png/487/653/sticker-png-cascading-style-sheets-logo-html-css3-sass-others-miscellaneous-blue-angle-text-thumbnail.png" />
+<img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" />
