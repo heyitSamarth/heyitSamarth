@@ -1,17 +1,11 @@
 ### Hi 👋 ,I am SAMARTH!
 *I am working hard 😥on my coding 👨‍💻 skills and it's been a 🥰 **year**.*
-*j*
 
 
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 
-*//I am not responsible of this code.
+*//I am not responsible for all my codes.
 They made me write it, against my will.//*
-
-> If the things are not going smooth,
-> Just change the algorithm
-
-
 
 <br />
 <br/>
@@ -30,4 +24,9 @@ They made me write it, against my will.//*
 <br/>
 *These are the places u can find me online.*
 <br/>
+
+> If the things are not going smooth,
+> Just change the algorithm
+
+*-samarth*
 
