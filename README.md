@@ -40,7 +40,7 @@
 
 ### Can code in 
  <img align="left" style="margin:20px" alt="Code chef " width="30px" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
-<img align="left" style="margin:20px" alt="Code chef " width="30px" src="" />
+<img align="left" style="margin:20px" alt="Code chef " width="30px" src="https://media.bitdegree.org/storage/media/images/2020/02/java-vs-c-c-267x300.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="30px" src="" />
 <img align="left" style="margin:20px" alt="Code chef " width="30px" src="" />
 <img align="left" style="margin:20px" alt="Code chef " width="30px" src="" />
