@@ -10,5 +10,5 @@
   <img align="left" alt="Code chef " width="22px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/samarthdubey49/practice/">
-  <img align="left" alt="Code chef " width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200617163105/gfg-logo.png" />
+  <img align="left" alt="Code chef " width="22px" src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" />
 </a>
