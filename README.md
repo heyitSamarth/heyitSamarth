@@ -16,7 +16,7 @@
   <img align="center" alt="Code chef " width="22px" src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" />
 </a>
 <br/>
-
+<br />
 > These are the places u can find me online.
 <br/>
-<img align="center" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
+<img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
