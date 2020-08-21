@@ -7,7 +7,6 @@
 *//I am not responsible for all my codes.*
 <br/>
 *They made me write it, against my will.//*
-
 <br/>
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="center" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -27,6 +26,5 @@
 
 > If the things are not going smooth,
 > Just change the algorithm
-
 *-samarth*
 
