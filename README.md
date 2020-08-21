@@ -5,6 +5,7 @@
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 > If the things are not going smooth,
 > Just change the algorithm
+<br />
 
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="center" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
