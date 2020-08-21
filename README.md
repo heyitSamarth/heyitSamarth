@@ -1,10 +1,7 @@
 ### Hi 👋 ,I am SAMARTH!
 *I am working on my hard 😣coding 👨‍💻 skills and it's been a 🥰 **year**.*
 > If the things are not going smooth,
-> JUst change the algorithm
-
-
-
+> Just change the algorithm
 
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 <a href="https://www.instagram.com/heyitsamarth">
