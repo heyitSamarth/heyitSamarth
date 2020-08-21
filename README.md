@@ -44,5 +44,5 @@
 <img align="left" style="margin:20px" alt="Code chef " width="70px" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" />
-<img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" />
+<img align="left" style="margin:20px" alt="Code chef " width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" />
