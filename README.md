@@ -5,7 +5,6 @@
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 
 
-<br/>
 *I am not responsible for all my codes,*
 <br/>
 *They made me write it, against my will.*
