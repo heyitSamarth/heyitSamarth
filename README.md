@@ -1,8 +1,8 @@
 ## Hi 👋 ,I am SAMARTH!
 
 >I am working on my coding skills and it's been a **year**
+<img align="right" alt="GIF" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 <br />
-
 <a href="https://www.instagram.com/heyitsamarth">
   <img align="left" alt="samarth's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
