@@ -18,5 +18,5 @@
 </a>
 <br />
 <br/>
->These are the places u can find me online.
+> These are the places u can find me online.
 <br/>
