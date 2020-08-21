@@ -24,6 +24,7 @@
 *These are the places u can find me online.*
 <br/>
 
+
 > If the things are not going smooth,
 > Just change the algorithm.
 > *- Samarth*
