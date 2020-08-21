@@ -1,6 +1,8 @@
 ## Hi 👋 ,I am SAMARTH!
 *I am working on my hard 😣coding 👨‍💻 skills and it's been a 🥰 **year**.*
-<br/>
+
+
+
 <img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 <br />
 <br />
