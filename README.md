@@ -1,5 +1,5 @@
 ## Hi 👋 ,I am SAMARTH!
-<img align="right" alt="GIF" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
+<img align="right" alt="GIF" width="200px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 I am working on my coding 👨‍💻 skills and it's been a **year**
 <br />
 <br />
