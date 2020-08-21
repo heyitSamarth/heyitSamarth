@@ -28,7 +28,7 @@
 
 
 
-> If the things are not going smooth,
+> If the things are not working flawlessly,
 > Just change the algorithm.
 > *- Samarth*
 
