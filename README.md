@@ -3,7 +3,7 @@
 *Still working 😥on my coding 👨‍💻 skills and it's been a 🥰 **year**.*
 
 
-<img align="right" alt="GIF" width="400px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
+<img align="right" alt="GIF" width="300px" src="https://i1.wp.com/media1.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
 
 <a href="https://github.com/heyitsamarth">
     <img  align="left" src="https://komarev.com/ghpvc/?username=heyitsamarth">
@@ -37,7 +37,7 @@
 > Just change the algorithm.
 > *- Samarth*
 
-<br/>
+
 ### Can code in 
  <img align="left" style="margin:20px" alt="Code chef " width="47px" src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" />
 <img align="left" style="margin:20px" alt="Code chef " width="50px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />
