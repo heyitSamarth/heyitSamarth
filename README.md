@@ -47,4 +47,5 @@
 <img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjI8xsCmD0xkprB2qQaWPFhFe7enk-uSB9CfNdv2bV&s" />
-<img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" />
+<img align="left" style="margin:20px" alt="Code chef " width="70px" src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" />
+<img align="left" style="margin:20px" alt="Code chef " width="43px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
